@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-class RadioTest {
+public class RadioTest {
     Radio radio = new Radio();
     @Test
     void shouldChangeStation() {
