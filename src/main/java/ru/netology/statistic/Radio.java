@@ -51,7 +51,4 @@ public class Radio {
             currentVolume--;
         }
     }
-
-    public void prevRadioStation() {
-    }
 }
